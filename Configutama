@@ -31,11 +31,6 @@ dns:
     - 8.8.8.8
     - 1.1.1.1
     - 112.215.203.254
-Bug:
-  - &akun vip13.globalssh.com
-  - &akun1 W1717170
-  - &akun3 /trojan-ws
-
 proxies:
   - name: Vidio SNI 01
     server: *akun
